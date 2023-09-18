@@ -1,0 +1,37 @@
+{
+  "name": "Vinod Kumar",
+  "avatar": "/avatar1.jpg",
+  "links": [
+    {
+      "title": "Portfolio",
+      "url": "https://visualsbyvinodkumar.vercel.app",
+      "image":"/avatar1.jpg"
+    },
+   {
+  "title": "Instagram",
+  "url": "https://www.instagram.com/mr_donald_doctor",
+  "image":"/insta.svg"
+   },
+   {
+  "title": "Linkedin",
+  "url": "https://www.instagram.com/mr_donald_doctor",
+  "image":"/link.svg"
+   },
+{
+  "title": "Facebook",
+  "url": "https://twitter.com/_Shit__Life",
+  "image":"/fb.svg"
+}
+  ],
+  "socials":[
+{
+    "title":"Twitter",
+    "url":"https://twitter.com/_Shit__Life"
+},
+
+{
+"title":"Github",
+"url":"https://github.com/vinodmanimaran"
+}
+  ]
+}
