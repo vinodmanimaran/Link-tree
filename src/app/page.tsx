@@ -72,7 +72,7 @@ function GitHubIcon() {
    title,
    image,
  }: {
-   href: string;
+   url: string;
    title: string;
    image?: string;
  }) {
